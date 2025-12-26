@@ -3,7 +3,7 @@ import random
 total_wines = 1000
 total_prisoners = 10
 
-p = random.randint(0, total_wines - 1)
+p = random.randint(0, total_wines - 1) #com
 
 
 def print_support_text(support_text, allowed, end='\n'):
